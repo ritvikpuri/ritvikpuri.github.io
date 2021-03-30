@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Haanji Kiven</h1>
+      <h1>Haanji Kiven sab badiya?</h1>
       <img src={myImage} alt="profile-image"></img>
     </div>
   );
