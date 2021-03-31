@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/ritvikpuri.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ritvikpuri.github.io/static/js/main.011366de.chunk.js",
-    "main.js.map": "/ritvikpuri.github.io/static/js/main.011366de.chunk.js.map",
-    "runtime-main.js": "/ritvikpuri.github.io/static/js/runtime-main.55639124.js",
-    "runtime-main.js.map": "/ritvikpuri.github.io/static/js/runtime-main.55639124.js.map",
-    "static/js/2.d8ae3932.chunk.js": "/ritvikpuri.github.io/static/js/2.d8ae3932.chunk.js",
-    "static/js/2.d8ae3932.chunk.js.map": "/ritvikpuri.github.io/static/js/2.d8ae3932.chunk.js.map",
-    "static/js/3.ba387e0f.chunk.js": "/ritvikpuri.github.io/static/js/3.ba387e0f.chunk.js",
-    "static/js/3.ba387e0f.chunk.js.map": "/ritvikpuri.github.io/static/js/3.ba387e0f.chunk.js.map",
+    "main.js": "/ritvikpuri.github.io/static/js/main.fe734776.chunk.js",
+    "main.js.map": "/ritvikpuri.github.io/static/js/main.fe734776.chunk.js.map",
+    "runtime-main.js": "/ritvikpuri.github.io/static/js/runtime-main.d0f1f91d.js",
+    "runtime-main.js.map": "/ritvikpuri.github.io/static/js/runtime-main.d0f1f91d.js.map",
+    "static/js/2.3401b8c2.chunk.js": "/ritvikpuri.github.io/static/js/2.3401b8c2.chunk.js",
+    "static/js/2.3401b8c2.chunk.js.map": "/ritvikpuri.github.io/static/js/2.3401b8c2.chunk.js.map",
+    "static/js/3.583b62c1.chunk.js": "/ritvikpuri.github.io/static/js/3.583b62c1.chunk.js",
+    "static/js/3.583b62c1.chunk.js.map": "/ritvikpuri.github.io/static/js/3.583b62c1.chunk.js.map",
     "index.html": "/ritvikpuri.github.io/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/ritvikpuri.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d8ae3932.chunk.js.LICENSE.txt": "/ritvikpuri.github.io/static/js/2.d8ae3932.chunk.js.LICENSE.txt",
+    "static/js/2.3401b8c2.chunk.js.LICENSE.txt": "/ritvikpuri.github.io/static/js/2.3401b8c2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ritvikpuri.github.io/static/media/logo.6ce24c58.svg",
     "static/media/me.5de929ab.jpg": "/ritvikpuri.github.io/static/media/me.5de929ab.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.55639124.js",
-    "static/js/2.d8ae3932.chunk.js",
+    "static/js/runtime-main.d0f1f91d.js",
+    "static/js/2.3401b8c2.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.011366de.chunk.js"
+    "static/js/main.fe734776.chunk.js"
   ]
 }
