@@ -11,7 +11,7 @@ class App extends Component{
   render(){
     return(
       <Router>
-      <div>
+      {/* <div>
         <nav>
           <ul>
             <li>
@@ -21,7 +21,7 @@ class App extends Component{
               <Link to="/projects">Projects</Link>
             </li>
           </ul>
-        </nav>
+        </nav> */}
 
         <Switch>
           <Route path="/">
@@ -31,23 +31,11 @@ class App extends Component{
             <Projects />
           </Route>
         </Switch>
-      </div>
+      {/* </div> */}
     </Router>
   );
 }
 }
 
-// function Home() {
-//   return <h2>Home</h2>;
-// }
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <h1>Haanji Kiven sab badiya?</h1>
-//       <img src={myImage} alt="profile-image"></img>
-//     </div>
-//   );
-// }
 
 export default App;

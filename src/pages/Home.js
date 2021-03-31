@@ -18,13 +18,12 @@ class Home extends Component {
 	
 	render() {
 		//let resumeURI = staticContentURI + "/files/resume.pdf";
+		//{this.state.age}
 		return (
-                // <React.Component>
-                //     {this.state.age} hello
-                // </React.Component>
                 <React.Fragment>
                     <Container>
-                        <p>this is the home page</p>
+                        <p></p>
+						<img src="https://media1.tenor.com/images/a569cd29a902d5f57ab4ddb92d0adab5/tenor.gif?itemid=17296473" alt="this works"/>
                     </Container>
                 </React.Fragment>
         )
