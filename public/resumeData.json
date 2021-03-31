@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Ritvik Puri",
+    "occupation":"Student",
+    "description":"Undegraduate Student at the Univsersity of Toronto",
+    "image":"me.jpg",
+    "bio":"Yahan pe dil ki baat likhunga.",
+    "contactmessage":"Kuch badiya sa likh ke bhejo.",
+    "email": "ritvikpuri00@gmail.com",
+    "phone": "609-874-4438",
+    "address":{
+      "street":"St George Street",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M5S-2E5"
+    },
+    "website": "http://www.ritvikpuri.github.io.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/ritvik.puri.9",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ritvikpuri",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ritvikpuri",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/ritvikpuri",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Toronto",
+        "degree":"Bachelor of Science",
+        "graduated":"May 2022",
+        "description":"Ll Bhigs bhai."
+      },
+      {
+        "school":"Suncity School",
+        "degree":"",
+        "graduated":"May 2018",
+        "description":"Arre bohot mazze kiye yahan."
+      }
+    ],
+    "work":[
+      {
+        "company":"Generic IT Company",
+        "title":"Intern tha aur kya",
+        "years":"March 2020 - Kabhi nahi",
+        "description":"Bohot hee zyada kaam kara tha yahan."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Dukh",
+        "level":"90%"
+      },
+      {
+        "name":"Ish",
+        "level":"0%"
+      },
+      {
+        "name":"Ish ki Yaad",
+        "level":"100%"
+      },
+      {
+        "name":"Ll",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
