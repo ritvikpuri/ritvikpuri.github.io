@@ -1,24 +1,20 @@
 {
   "files": {
-    "main.css": "/ritvikpuri.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ritvikpuri.github.io/static/js/main.93b89fe4.chunk.js",
-    "main.js.map": "/ritvikpuri.github.io/static/js/main.93b89fe4.chunk.js.map",
-    "runtime-main.js": "/ritvikpuri.github.io/static/js/runtime-main.d0f1f91d.js",
-    "runtime-main.js.map": "/ritvikpuri.github.io/static/js/runtime-main.d0f1f91d.js.map",
-    "static/js/2.29e1eafd.chunk.js": "/ritvikpuri.github.io/static/js/2.29e1eafd.chunk.js",
-    "static/js/2.29e1eafd.chunk.js.map": "/ritvikpuri.github.io/static/js/2.29e1eafd.chunk.js.map",
-    "static/js/3.583b62c1.chunk.js": "/ritvikpuri.github.io/static/js/3.583b62c1.chunk.js",
-    "static/js/3.583b62c1.chunk.js.map": "/ritvikpuri.github.io/static/js/3.583b62c1.chunk.js.map",
+    "main.css": "/ritvikpuri.github.io/static/css/main.bab0b925.chunk.css",
+    "main.js": "/ritvikpuri.github.io/static/js/main.5b597a47.chunk.js",
+    "main.js.map": "/ritvikpuri.github.io/static/js/main.5b597a47.chunk.js.map",
+    "runtime-main.js": "/ritvikpuri.github.io/static/js/runtime-main.8a80ddc8.js",
+    "runtime-main.js.map": "/ritvikpuri.github.io/static/js/runtime-main.8a80ddc8.js.map",
+    "static/js/2.df48a6e7.chunk.js": "/ritvikpuri.github.io/static/js/2.df48a6e7.chunk.js",
+    "static/js/2.df48a6e7.chunk.js.map": "/ritvikpuri.github.io/static/js/2.df48a6e7.chunk.js.map",
     "index.html": "/ritvikpuri.github.io/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ritvikpuri.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.29e1eafd.chunk.js.LICENSE.txt": "/ritvikpuri.github.io/static/js/2.29e1eafd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ritvikpuri.github.io/static/media/logo.6ce24c58.svg",
-    "static/media/me.5de929ab.jpg": "/ritvikpuri.github.io/static/media/me.5de929ab.jpg"
+    "static/css/main.bab0b925.chunk.css.map": "/ritvikpuri.github.io/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.df48a6e7.chunk.js.LICENSE.txt": "/ritvikpuri.github.io/static/js/2.df48a6e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0f1f91d.js",
-    "static/js/2.29e1eafd.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.93b89fe4.chunk.js"
+    "static/js/runtime-main.8a80ddc8.js",
+    "static/js/2.df48a6e7.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.5b597a47.chunk.js"
   ]
 }
